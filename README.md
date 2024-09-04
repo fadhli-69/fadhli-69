@@ -1,4 +1,9 @@
-# Hi there 👋 , I'm Muhammad Nurfadhli!
+<h1 align="left">
+    <img src="https://raw.githubusercontent.com/mozart-69/mozart-69/master/wave.gif" width="50px"> Hello There, I'm <a href="https://github.com/mozart-69">Muhammad Nurfadhli.</a> 
+<h align="right">
+    <img src="https://raw.githubusercontent.com/mozart-69/mozart-69/master/wave.gif" width="50px">
+        
+</h1>
 I'm currently a Super newbie Bangkit student who interested in mobile development
 
 ### Tools:
