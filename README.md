@@ -16,7 +16,6 @@ I'm currently a Super newbie Bangkit student who interested in mobile developmen
     - 🌱 I’m currently learning Mobile development </br>
     - 👯 I’m looking to collaborate on Mobile Apps. </br>
     - 📫 How to reach me: <a href="mailto:fadhli7261@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: I love Anime, Webtoon and so on!! </br>
 </details>
 
