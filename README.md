@@ -13,8 +13,6 @@ I'm currently a Super newbie Bangkit student who interested in mobile developmen
     <img src="https://img.shields.io/badge/IDE-Android Studio-blue?&logo=android studio" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
-
-### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently a student in Bangkit 2024 batch 2 </br>
