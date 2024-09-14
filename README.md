@@ -1,7 +1,7 @@
 <h1 align="left">
-    <img src="https://raw.githubusercontent.com/mozart-69/mozart-69/master/wave.gif" width="50px"> Hello There, I'm <a href="https://github.com/mozart-69">Muhammad Nurfadhli.</a> 
+    <img src="https://raw.githubusercontent.com/fadhli-69/fadhli-69/master/wave.gif" width="50px"> Hello There, I'm <a href="https://github.com/fadhli-69">Muhammad Nurfadhli.</a> 
 <h align="right">
-    <img src="https://raw.githubusercontent.com/mozart-69/mozart-69/master/wave.gif" width="50px">
+    <img src="https://raw.githubusercontent.com/fadhli-69/fadhli-69/master/wave.gif" width="50px">
         
 </h1>
 I'm currently a Super newbie Bangkit student who interested in mobile development
@@ -24,8 +24,8 @@ I'm currently a Super newbie Bangkit student who interested in mobile developmen
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/mozart-69">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mozart-69&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mozart-69&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/fadhli-69">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadhli-69&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadhli-69&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
