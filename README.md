@@ -22,3 +22,10 @@ I'm currently a Super newbie Bangkit student who interested in mobile developmen
     - ⚡ Fun fact: I love Anime, Webtoon and so on!! </br>
 </details>
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/mozart-69">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mozart-69&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mozart-69&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
