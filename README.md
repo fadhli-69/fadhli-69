@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/fadhli-69/fadhli-69/master/wave.gif" width="50px">
         
 </h1>
-I'm currently a newbie Bangkit student who interested in mobile development
+I'm currently a Bangkit Academy student who interested in mobile development
 
 ### Tools:
 <p>
