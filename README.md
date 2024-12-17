@@ -25,7 +25,7 @@ I'm currently a Bangkit Academy student who interested in mobile development
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/fadhli-69">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadhli-69&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhli-69&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fadhli-69&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhli-69&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
